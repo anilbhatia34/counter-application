@@ -13,7 +13,7 @@ const student = [
 const studentNames = student.map((std)=> <li key={std.name}>Name: {std.name}, Age: {std.age}</li> );
   return (
     <div>
-    { <ul>{studentNames}</ul>}      
+    { <ul className="bg-success text-white">{studentNames}</ul>}      
     </div>
   );
 }
