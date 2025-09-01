@@ -39,8 +39,8 @@
 
 .row {
   display: flex;
-  justify-content: center;  /* centers them horizontally */
-  align-items: flex-start;  /* aligns them at the top */
-  gap: 30px;                /* space between components */
+  justify-content: center;  
+  align-items: flex-start;  
+  gap: 30px;                
   margin-top: 20px;
 }
