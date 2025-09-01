@@ -37,10 +37,4 @@
   }
 }
 
-.row {
-  display: flex;
-  justify-content: center;  /* centers them horizontally */
-  align-items: flex-start;  /* aligns them at the top */
-  gap: 30px;                /* space between components */
-  margin-top: 20px;
-}
+

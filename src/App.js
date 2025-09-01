@@ -1,13 +1,12 @@
 
 import './App.css';
+import CakeContainer from './components/CakeContainer';
 
 
 function App() {
   return (
-    <div className="app-container">
-      <h1 className="main-heading">Assignment-1 Counter Application</h1>
-      <div className="row">
-      </div>
+<div>
+      <CakeContainer />
     </div>
   );
 }
